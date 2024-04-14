@@ -14,15 +14,16 @@ Fivetran sits in the ingestion portion of a Data Pipeline. It connects with seve
 
 ## 1.2 The Solution
 
-Fivetran goal is to make Data Teams to focus on insights instead of handling ELT/ETL process. It fully manages the data normalization and provides automatic DML updates, schema migrations, Idempontent pipelines, log based CDC, it is cloud agnostic and has integrated and pre-built transformations.
+Fivetran It solves the problem of centralizing Data, getting it from operational systems and delivering it in modern data warehouses. Its goal is to make Data Teams to focus on insights instead of handling ELT/ETL process. It fully manages the data normalization and provides automatic DML updates, schema migrations, Idempontent pipelines, log based CDC, it is cloud agnostic and has integrated and pre-built transformations.
 
 ![image](https://github.com/igpatrocinio/fivetran-certification/assets/105254279/b3930a89-8a1a-44f1-90e3-ffdc177e62c1)
 
-Differentiators:
-- Over 200 pre-built fully managed connectors
-- End to end data automation
+Big Numbers:
+- Over 3,500 customers
+- 200+ Engineers
 - 99.9% uptime and guaranteed data delivery
-- Cloud Native
+- 65.000+ total connectors managed
+- 3.5 TRILLION records synced each month
 
 If a product is not a native connector, it is possible to build a Cloud Function, and then connects to Fivetran to became fully automated.
 
@@ -43,6 +44,12 @@ Fivetran benefits:
 - Operational Efficiency: Realtime and high volume movement. High available
 - Data Democratic: Enables data access when needed. Breaks Data Silos. Enables Data governance.
 
-## 1.3 Security and Compliance
+# 2 Architecture
 
-Fivetran is compliant with a lot 
+## 2.1 Reference Architecture
+![image](https://github.com/igpatrocinio/fivetran-certification/assets/105254279/d9640901-8acd-4b90-8ea5-9af1898bdec8)
+
+As seen in the image above, Fivetrans connects to diverse sources of several types, and delivers data at in the modern cloud warehouses.
+
+
+
