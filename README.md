@@ -25,7 +25,7 @@ Big Numbers:
 - 65.000+ total connectors managed
 - 3.5 TRILLION records synced each month
 
-If a product is not a native connector, it is possible to build a Cloud Function, and then connects to Fivetran to became fully automated.
+If a product is not a native connector, it is possible to build a Cloud Function (Lambda, Az Functions, GCP Cloud Function, etc), and then connects to Fivetran to became fully automated.
 
 Fivetran uses ELT approach:
 ![image](https://github.com/igpatrocinio/fivetran-certification/assets/105254279/37ad543e-0912-40e7-ba59-6cd6b2a7728c)
