@@ -14,7 +14,7 @@ Fivetran sits in the ingestion portion of a Data Pipeline. It connects with seve
 
 ## 1.2 The Solution
 
-Fivetran It solves the problem of centralizing Data, getting it from operational systems and delivering it in modern data warehouses. Its goal is to make Data Teams to focus on insights instead of handling ELT/ETL process. It fully manages the data normalization and provides automatic DML updates, schema migrations, Idempontent pipelines, log based CDC, it is cloud agnostic and has integrated and pre-built transformations.
+Fivetran It solves the problem of centralizing Data, getting it from operational systems and delivering it in modern data warehouses. Its goal is to make Data Teams focus more on generating insights instead of handling ELT/ETL process. It fully manages the data normalization and provides automatic DML updates, schema migrations, Idempontent pipelines, log based CDC, it is cloud agnostic and has integrated and pre-built transformations.
 
 ![image](https://github.com/igpatrocinio/fivetran-certification/assets/105254279/b3930a89-8a1a-44f1-90e3-ffdc177e62c1)
 
