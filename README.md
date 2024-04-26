@@ -50,6 +50,3 @@ Fivetran benefits:
 ![image](https://github.com/igpatrocinio/fivetran-certification/assets/105254279/d9640901-8acd-4b90-8ea5-9af1898bdec8)
 
 As seen in the image above, Fivetrans connects to diverse sources of several types, and delivers data at in the modern cloud warehouses.
-
-
-
