@@ -51,4 +51,3 @@ Fivetran benefits:
 
 As seen in the image above, Fivetrans connects to diverse sources of several types, and delivers data at in the modern cloud warehouses.
 
-
