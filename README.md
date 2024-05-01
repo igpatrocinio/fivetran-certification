@@ -4,7 +4,7 @@ With the objective of being approved in the Fivetran certification, I created th
 
 # 1 Introduction
 
-## 1.1 Fivetran
+## 1.1 The Company
 
 A Data Moviment specialized company. Tech Partners with the biggest players in the Market (AWS, GCP, Azure, Databricks, Snowflake) 
 
